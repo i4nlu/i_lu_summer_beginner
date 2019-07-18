@@ -57,8 +57,8 @@ public class lesson{
             // second part is the condition
             // third part is the increment
             // i++ is same as i += 1 same as i = i + 1
-            for (int i = 0; i < 10; i++;){
-              System.out.println(j);
+            for (int i = 0; i < 10; i++);{
+              System.out.println("j");
             }
   }
 }
